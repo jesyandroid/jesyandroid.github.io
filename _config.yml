@@ -1,0 +1,14 @@
+title: Kairós Bookshelf
+description: App oficial del blog Kairós Revista Literaria.
+avatar: /assets/images/logo2.png
+email: jesyandroid@gmail.com
+skin: solarized
+subscribe: false
+paginate: 10
+show_downloads: false
+google_analytics: 
+#theme: jekyll-theme-cayman
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
